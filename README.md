@@ -126,14 +126,10 @@ This project demonstrates how data analysis and machine learning can be used to 
 How to Run the Project:
 
 Step 1: Clone the repository
-   * ( git clone <your-repo-link> )
 
 Step 2: Navigate to the project folder
-   * ( cd <project-folder> )
     
 Step 3: Install required libraries
-   * ( pip install -r requirements.txt )
  
 Step 4: Run Jupyter Notebook
-   * ( jupyter notebook )
 
